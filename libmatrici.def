@@ -1,0 +1,12 @@
+EXPORTS
+    det @1
+    det2x2 @2
+    dete @3
+    minore @4
+    minore2x2 @5
+    minore3x4 @6
+    mxyz @7
+    ordina @8
+    rango3x3 @9
+    rango3x4 @10
+    sistema @11
